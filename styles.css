@@ -1,1 +1,12 @@
+titulo-centrado {
+  text-align: center;
+  background-color: #FBEDD6;
+  color: #BF7E46;
+  padding:15px;
+  width: fit-content;
+  margin: 0 auto;
+}
+body{
+  color: #97C6E0;
+}
 
