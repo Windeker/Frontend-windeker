@@ -1,1 +1,8 @@
-
+.titulo-centrado {
+  text-align: center;        /* Centra el texto horizontalmente */
+  background-color: #f28695; /* Color de fondo solo del título */
+  color: white;              /* Color del texto (para que se vea bien) */
+  padding: 15px;             /* Espacio interior para que no se pegue */
+  width: fit-content;        /* Ajusta el fondo solo al texto (no al 100%) */
+  margin: 0 auto;            /* Centra el bloque del título si usas width */
+}
