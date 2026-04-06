@@ -9,3 +9,6 @@ Ideas de diseño:
 ✨2 galerías de fotos (una de mi y otra de mis mascotas)
 ✨bandas favoritas
 
+ Público:
+
+✨cualquiera (al que le interese).
