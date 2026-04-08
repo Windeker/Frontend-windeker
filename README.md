@@ -11,4 +11,6 @@ Ideas de diseño:
 
  Público:
 
-✨cualquiera (al que le interese).
+✨amigos.
+✨familia. 
+✨interesados. 
