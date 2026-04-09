@@ -5,12 +5,17 @@
 Ideas de diseño:
 
 ✨tonalidades rosas, amarillas y verdes.
+
 ✨principal inspiración: flores hawaianas.
+
 ✨2 galerías de fotos (una de mi y otra de mis mascotas)
+
 ✨bandas favoritas
 
  Público:
 
 ✨amigos.
+
 ✨familia. 
+
 ✨interesados. 
