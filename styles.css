@@ -1,12 +1,16 @@
 titulo-centrado {
   text-align: center;
-  background-color: #FBEDD6;
-  color: #BF7E46;
+  background-color: #835e48;
+  color: #e4a9a8;
   padding:15px;
   width: fit-content;
   margin: 0 auto;
 }
-body{
-  color: #97C6E0;
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color:#835e48;
+  background-color: #f1d884;
+  padding: 20px;
 }
 
