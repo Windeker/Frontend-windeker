@@ -5,7 +5,7 @@
 🎵Música y grupos.
 🐾Animales fav.
 
-🫧🫧La página va a contar con:🫧🫧
+🫧🫧La página va a contará con:🫧🫧
 
 📑Formulario
 🖼️Galería
